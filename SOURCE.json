@@ -1,0 +1,13 @@
+{
+  "original_file": "Reachy-Mini-Assembly.html",
+  "original_sha256": "518d2c02d5c2ac8898a3a9a1964d8cc7cf3ba206ec4a01dbde8b0b10528cefeb",
+  "original_bytes": 29900286,
+  "embedded_assets_preserved": 96,
+  "packaging": "Asset map moved to sequential local scripts; app code unchanged.",
+  "files": {
+    "index.html": "0f9d26324c35b0d077ba4c16dae49d03d29770072bef602fc3f8f8b65608e2f6",
+    "reachy-assets-01.js": "cb007f92476a678a9d584f2724a4e3238ea73733acf587895de1b6942146c15f",
+    "reachy-assets-02.js": "cad0e62da924b5ec2a9548dcd8f7e34fe2b9c70c3c79376ff931c082e736481e",
+    "reachy-assets-03.js": "bd73e061e17109b9f506e72692beaaf780a2567a7ad2f676cc6e3f56528af4a2"
+  }
+}
